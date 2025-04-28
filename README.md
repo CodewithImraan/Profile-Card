@@ -12,6 +12,10 @@ Built with clean **HTML** and **CSS**, this project showcases a stylish and mode
 > _Opens in a new tab — see the profile card in action!_
 
 ---
+## 🚀 Tech Stack Used
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ## 📂 Project Structure
 /images --> All images used in the project index.html --> Main HTML file style.css --> CSS stylesheet
